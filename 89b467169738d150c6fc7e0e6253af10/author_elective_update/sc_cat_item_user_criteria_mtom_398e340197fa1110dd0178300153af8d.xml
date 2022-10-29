@@ -41,7 +41,7 @@
         <update_guid_history>3d8e340117fa1110966d048e6bb3f08f:249930225</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Fleet Management Vehicle On Road History.Any User">949e740197fa1110dd0178300153afe6</sys_audit_delete>
+        <sys_audit_delete display_value="">949e740197fa1110dd0178300153afe6</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-25 15:54:10</sys_created_on>

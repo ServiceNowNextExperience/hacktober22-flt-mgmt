@@ -41,14 +41,11 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>d002c7b087a9d550bf924085dabb3504</sys_id>
-            <sys_mod_count>0</sys_mod_count>
             <sys_name>Vehicle - Default view</sys_name>
             <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
             <sys_policy/>
             <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
             <sys_update_name>sys_ui_related_x_snc_flt_mgmt_vehicle_null</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-24 03:31:28</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

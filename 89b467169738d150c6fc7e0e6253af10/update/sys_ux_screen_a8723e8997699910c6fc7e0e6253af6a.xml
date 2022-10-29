@@ -45,7 +45,7 @@
         <required_translations>[ ]</required_translations>
         <rollback_screen/>
         <screen_condition/>
-        <screen_type display_value="Vehicle Info">593d2fd487a15550bf924085dabb35f7</screen_type>
+        <screen_type/>
         <sys_class_name>sys_ux_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-08-24 21:01:58</sys_created_on>

@@ -7,7 +7,7 @@
         <hint>Fleet Vehicle Management UIB Workshop Labs</hint>
         <name/>
         <order>100</order>
-        <roles/>
+        <roles>snc_internal</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>jon.lind</sys_created_by>
         <sys_created_on>2022-08-26 15:38:51</sys_created_on>

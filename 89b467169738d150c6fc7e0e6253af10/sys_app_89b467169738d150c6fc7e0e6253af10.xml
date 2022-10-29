@@ -42,6 +42,7 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/jpeg</content_type>
+        <encryption_context/>
         <file_name>feet.JPG</file_name>
         <hash>37eca11c29a70bbe0b484d53fbca2f524d5c54db7e0157d0c6e7e398d13742ff</hash>
         <image_height/>
