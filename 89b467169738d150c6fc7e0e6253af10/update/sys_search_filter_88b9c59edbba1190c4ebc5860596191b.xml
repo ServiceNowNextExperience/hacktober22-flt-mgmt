@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Model">08b9c59edbba1190c4ebc58605961916</ais_search_source>
+        <label>Model</label>
+        <name>Model</name>
+        <order>400</order>
+        <search_context_config display_value="My Space - Fleet Vehicle Management AI Search Conf">7b894d5ecaba119074f1d369d6bc5979</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-29 13:55:10</sys_created_on>
+        <sys_id>88b9c59edbba1190c4ebc5860596191b</sys_id>
+        <sys_name>Model</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_update_name>sys_search_filter_88b9c59edbba1190c4ebc5860596191b</sys_update_name>
+    </sys_search_filter>
+</record_update>

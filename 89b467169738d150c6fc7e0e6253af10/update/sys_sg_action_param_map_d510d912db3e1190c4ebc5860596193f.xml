@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button ()">1910d912db3e1190c4ebc5860596192e</button>
+        <item_parameter display_value=" serial_number">d110d912db3e1190c4ebc5860596192d</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-29 14:23:06</sys_created_on>
+        <sys_id>d510d912db3e1190c4ebc5860596193f</sys_id>
+        <sys_name>d110d912db3e1190c4ebc5860596192d</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_d510d912db3e1190c4ebc5860596193f</sys_update_name>
+        <ui_parameter display_value="Serial number">9110d912db3e1190c4ebc58605961931</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

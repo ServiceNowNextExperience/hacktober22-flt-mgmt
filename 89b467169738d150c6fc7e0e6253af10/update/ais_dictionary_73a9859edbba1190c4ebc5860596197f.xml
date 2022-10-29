@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>x_snc_flt_mgmt_model,x_snc_flt_mgmt_maint_task,x_snc_flt_mgmt_part_reference,x_snc_flt_mgmt_vehicle,x_snc_flt_mgmt_manufacturer,x_snc_flt_mgmt_part,x_snc_flt_mgmt_maint_req</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>My Space - Fleet Vehicle Management Search Profile Default Spell Check Dictionary</label>
+        <last_derived/>
+        <locale>en</locale>
+        <name>x_snc_flt_mgmt_my_space_fleet_vehicle_management_search_profile_default_spell_check_dictionary</name>
+        <publish_id/>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>DRAFT</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-29 13:55:09</sys_created_on>
+        <sys_id>73a9859edbba1190c4ebc5860596197f</sys_id>
+        <sys_name>x_snc_flt_mgmt_my_space_fleet_vehicle_management_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_update_name>ais_dictionary_73a9859edbba1190c4ebc5860596197f</sys_update_name>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

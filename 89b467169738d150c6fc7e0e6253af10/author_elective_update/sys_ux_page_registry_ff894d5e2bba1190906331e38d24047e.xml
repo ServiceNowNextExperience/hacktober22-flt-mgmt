@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>77894d5e14ba11903d0099800386047f</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>my-space---fleet-vehicle-management</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-29 13:54:37</sys_created_on>
+        <sys_id>ff894d5e2bba1190906331e38d24047e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Space - Fleet Vehicle Management</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_update_name>sys_ux_page_registry_ff894d5e2bba1190906331e38d24047e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-29 13:54:37</sys_updated_on>
+        <title>My Space - Fleet Vehicle Management</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</application>
+        <file_path/>
+        <instance_id>fe06e61cdbb19fc0536ad5b0cf961926</instance_id>
+        <instance_name>dev57511</instance_name>
+        <name>sys_ux_page_registry_ff894d5e2bba1190906331e38d24047e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>77894d5e14ba11903d0099800386047f</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>my-space---fleet-vehicle-management</path><root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-29 13:54:37</sys_created_on><sys_id>ff894d5e2bba1190906331e38d24047e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My Space - Fleet Vehicle Management</sys_name><sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package><sys_policy/><sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope><sys_update_name>sys_ux_page_registry_ff894d5e2bba1190906331e38d24047e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-29 13:54:37</sys_updated_on><title>My Space - Fleet Vehicle Management</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-488323715</payload_hash>
+        <record_name>My Space - Fleet Vehicle Management</record_name>
+        <reverted_from/>
+        <source>93cf9a32db021110c4ebc58605961975</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-09-24 02:41:17</sys_created_on>
+        <sys_id>097dc5dadbfa1190c4ebc5860596190d</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1836d5edcc80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>c57dc5da7efa1190090085d37268f60d</update_guid>
+        <update_guid_history>c57dc5da7efa1190090085d37268f60d:-488323715</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-29 14:11:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>d63a8641b77e4bf488b796f2af496f24</sys_id>
+        <sys_metadata>ff894d5e2bba1190906331e38d24047e</sys_metadata>
+        <sys_name>My Space - Fleet Vehicle Management</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_scope_delete display_value="">103cf2a4751b4197883305011e105169</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_ff894d5e2bba1190906331e38d24047e</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_ff894d5e2bba1190906331e38d24047e">097dc5dadbfa1190c4ebc5860596190d</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

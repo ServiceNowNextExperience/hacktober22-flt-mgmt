@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <application_id display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</application_id>
+        <evam_definition display_value="">f78b729b53d801109fa9ddeeff7b1201</evam_definition>
+        <genius_results_limit>1</genius_results_limit>
+        <hit_highlighting>false</hit_highlighting>
+        <name>My Space - Fleet Vehicle Management AI Search Conf</name>
+        <search_engine>ai_search</search_engine>
+        <search_profile display_value="My Space - Fleet Vehicle Management Search Profile">37894d5ecbba119094cc6356a467c07a</search_profile>
+        <search_results_limit>10</search_results_limit>
+        <spell_check>true</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-29 13:54:39</sys_created_on>
+        <sys_id>7b894d5ecaba119074f1d369d6bc5979</sys_id>
+        <sys_name>My Space - Fleet Vehicle Management AI Search Conf</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_update_name>sys_search_context_config_7b894d5ecaba119074f1d369d6bc5979</sys_update_name>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=7b894d5ecaba119074f1d369d6bc5979"/>
+</record_update>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_tab">
+    <par_dashboard_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <dashboard display_value="My Space - Fleet Vehicle Management">b7894d5ea9ba1190b6235ae0736c5277</dashboard>
+        <name>Tab</name>
+        <order>0</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-29 13:54:39</sys_created_on>
+        <sys_id>ff894d5e47ba1190d212289d5edf6b79</sys_id>
+        <sys_name>Tab</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_update_name>par_dashboard_tab_ff894d5e47ba1190d212289d5edf6b79</sys_update_name>
+    </par_dashboard_tab>
+</record_update>

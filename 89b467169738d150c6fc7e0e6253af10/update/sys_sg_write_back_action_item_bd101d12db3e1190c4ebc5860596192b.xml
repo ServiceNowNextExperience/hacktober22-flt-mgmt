@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>New</name>
+        <parameter_screen/>
+        <query_condition table="x_snc_flt_mgmt_maint_req">sys_idSTARTSWITH{{sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-29 14:23:08</sys_created_on>
+        <sys_id>bd101d12db3e1190c4ebc5860596192b</sys_id>
+        <sys_name>New</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_bd101d12db3e1190c4ebc5860596192b</sys_update_name>
+        <table>x_snc_flt_mgmt_maint_req</table>
+        <template>priority={{Maintainence Requests priority}}^state={{Maintainence Requests state}}^short_description={{Maintainence Requests short_description}}^description={{Maintainence Requests description}}^assigned_to={{Maintainence Requests assigned_to}}^assignment_group={{Maintainence Requests assignment_group}}^company={{Maintainence Requests company}}^location={{Maintainence Requests location}}^cmdb_ci={{Maintainence Requests cmdb_ci}}^business_service={{Maintainence Requests business_service}}^EQ</template>
+        <type>new</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=bd101d12db3e1190c4ebc5860596192b"/>
+</record_update>

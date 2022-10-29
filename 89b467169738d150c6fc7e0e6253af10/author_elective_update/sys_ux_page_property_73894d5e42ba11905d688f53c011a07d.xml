@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="My Space - Fleet Vehicle Management">ff894d5e2bba1190906331e38d24047e</page>
+        <required_translations>[ {
+  "message" : "New Incident",
+  "comment" : ""
+}, {
+  "message" : "New Interaction",
+  "comment" : ""
+}, {
+  "message" : "New Maint req",
+  "comment" : ""
+}, {
+  "message" : "New Maint task",
+  "comment" : ""
+}, {
+  "message" : "New Manufacturer",
+  "comment" : ""
+}, {
+  "message" : "New Model",
+  "comment" : ""
+}, {
+  "message" : "New Part",
+  "comment" : ""
+}, {
+  "message" : "New Part reference",
+  "comment" : ""
+}, {
+  "message" : "New Vehicle",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-29 13:54:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>73894d5e42ba11905d688f53c011a07d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_update_name>sys_ux_page_property_73894d5e42ba11905d688f53c011a07d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-29 13:55:09</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_flt_mgmt.ff894d5e2bba1190906331e38d24047e.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Interaction"},"routeInfo":{"route":"record","fields":{"table":"interaction","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"interaction","canCreate":true}}},{"label":{"translatable":true,"message":"New Incident"},"routeInfo":{"route":"record","fields":{"table":"incident","sysId":"-1"},"multiInstField":"sysId"}},{"label":{"translatable":true,"message":"New Maint req"},"routeInfo":{"route":"record","fields":{"table":"x_snc_flt_mgmt_maint_req","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_flt_mgmt_maint_req","canCreate":true}}},{"label":{"translatable":true,"message":"New Maint task"},"routeInfo":{"route":"record","fields":{"table":"x_snc_flt_mgmt_maint_task","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_flt_mgmt_maint_task","canCreate":true}}},{"label":{"translatable":true,"message":"New Manufacturer"},"routeInfo":{"route":"record","fields":{"table":"x_snc_flt_mgmt_manufacturer","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_flt_mgmt_manufacturer","canCreate":true}}},{"label":{"translatable":true,"message":"New Model"},"routeInfo":{"route":"record","fields":{"table":"x_snc_flt_mgmt_model","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_flt_mgmt_model","canCreate":true}}},{"label":{"translatable":true,"message":"New Part"},"routeInfo":{"route":"record","fields":{"table":"x_snc_flt_mgmt_part","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_flt_mgmt_part","canCreate":true}}},{"label":{"translatable":true,"message":"New Part reference"},"routeInfo":{"route":"record","fields":{"table":"x_snc_flt_mgmt_part_reference","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_flt_mgmt_part_reference","canCreate":true}}},{"label":{"translatable":true,"message":"New Vehicle"},"routeInfo":{"route":"record","fields":{"table":"x_snc_flt_mgmt_vehicle","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_flt_mgmt_vehicle","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=73894d5e42ba11905d688f53c011a07d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</application>
+        <file_path/>
+        <instance_id>fe06e61cdbb19fc0536ad5b0cf961926</instance_id>
+        <instance_name>dev57511</instance_name>
+        <name>sys_ux_page_property_73894d5e42ba11905d688f53c011a07d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Tabs Configuration</description><name>chrome_tab</name><page display_value="My Space - Fleet Vehicle Management">ff894d5e2bba1190906331e38d24047e</page><required_translations>[ {
+  "message" : "New Incident",
+  "comment" : ""
+}, {
+  "message" : "New Interaction",
+  "comment" : ""
+}, {
+  "message" : "New Maint req",
+  "comment" : ""
+}, {
+  "message" : "New Maint task",
+  "comment" : ""
+}, {
+  "message" : "New Manufacturer",
+  "comment" : ""
+}, {
+  "message" : "New Model",
+  "comment" : ""
+}, {
+  "message" : "New Part",
+  "comment" : ""
+}, {
+  "message" : "New Part reference",
+  "comment" : ""
+}, {
+  "message" : "New Vehicle",
+  "comment" : ""
+} ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-29 13:54:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>73894d5e42ba11905d688f53c011a07d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>chrome_tab</sys_name><sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package><sys_policy/><sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope><sys_update_name>sys_ux_page_property_73894d5e42ba11905d688f53c011a07d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-29 13:55:09</sys_updated_on><type>json</type><unique_name>x_snc_flt_mgmt.ff894d5e2bba1190906331e38d24047e.root.chrome_tab</unique_name><value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Interaction"},"routeInfo":{"route":"record","fields":{"table":"interaction","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"interaction","canCreate":true}}},{"label":{"translatable":true,"message":"New Incident"},"routeInfo":{"route":"record","fields":{"table":"incident","sysId":"-1"},"multiInstField":"sysId"}},{"label":{"translatable":true,"message":"New Maint req"},"routeInfo":{"route":"record","fields":{"table":"x_snc_flt_mgmt_maint_req","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_flt_mgmt_maint_req","canCreate":true}}},{"label":{"translatable":true,"message":"New Maint task"},"routeInfo":{"route":"record","fields":{"table":"x_snc_flt_mgmt_maint_task","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_flt_mgmt_maint_task","canCreate":true}}},{"label":{"translatable":true,"message":"New Manufacturer"},"routeInfo":{"route":"record","fields":{"table":"x_snc_flt_mgmt_manufacturer","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_flt_mgmt_manufacturer","canCreate":true}}},{"label":{"translatable":true,"message":"New Model"},"routeInfo":{"route":"record","fields":{"table":"x_snc_flt_mgmt_model","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_flt_mgmt_model","canCreate":true}}},{"label":{"translatable":true,"message":"New Part"},"routeInfo":{"route":"record","fields":{"table":"x_snc_flt_mgmt_part","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_flt_mgmt_part","canCreate":true}}},{"label":{"translatable":true,"message":"New Part reference"},"routeInfo":{"route":"record","fields":{"table":"x_snc_flt_mgmt_part_reference","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_flt_mgmt_part_reference","canCreate":true}}},{"label":{"translatable":true,"message":"New Vehicle"},"routeInfo":{"route":"record","fields":{"table":"x_snc_flt_mgmt_vehicle","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_flt_mgmt_vehicle","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=73894d5e42ba11905d688f53c011a07d"/></record_update>]]></payload>
+        <payload_hash>-466963026</payload_hash>
+        <record_name>chrome_tab</record_name>
+        <reverted_from/>
+        <source>67138996db7a1190c4ebc5860596198a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-29 13:55:09</sys_created_on>
+        <sys_id>bfa9859edbba1190c4ebc5860596191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184240663980000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-29 13:55:09</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>f3a9859e35ba11906908b98356bb481d</update_guid>
+        <update_guid_history>f3a9859e35ba11906908b98356bb481d:-466963026,bba9859e16ba119022ae47af0824bb1b:-366954608</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-29 14:11:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>38fab10bb70c4db29c9c801e90748c41</sys_id>
+        <sys_metadata>73894d5e42ba11905d688f53c011a07d</sys_metadata>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_scope_delete display_value="">103cf2a4751b4197883305011e105169</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_73894d5e42ba11905d688f53c011a07d</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_73894d5e42ba11905d688f53c011a07d">bfa9859edbba1190c4ebc5860596191d</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

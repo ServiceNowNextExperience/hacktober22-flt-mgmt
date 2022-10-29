@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"icon-Wrench","Value":"e93a","FontColor":"#6abecf","FontName":"now-mobile-icons","Shape":"Circle"}</icon>
+        <name>icon-Wrench</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-29 14:23:08</sys_created_on>
+        <sys_id>f5101d12db3e1190c4ebc5860596190d</sys_id>
+        <sys_name>icon-Wrench</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_update_name>sys_sg_icon_f5101d12db3e1190c4ebc5860596190d</sys_update_name>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Maintainence Requests business_service</name>
+        <parent>31101d12db3e1190c4ebc5860596193b</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-29 14:23:08</sys_created_on>
+        <sys_id>f5101d12db3e1190c4ebc5860596193e</sys_id>
+        <sys_name>Maintainence Requests business_service</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_f5101d12db3e1190c4ebc5860596193e</sys_update_name>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>
